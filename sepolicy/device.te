@@ -1,2 +1,0 @@
-type lirc_device, dev_type;
-type hid_gadget_device, dev_type;
